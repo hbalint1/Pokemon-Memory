@@ -1,5 +1,6 @@
 class Card {
-  constructor(x_, y_, pokemonNO_, imgTileWidth_, img_){
+  constructor(id_, x_, y_, pokemonNO_, imgTileWidth_, img_){
+    this.id = id_;
     this.x = x_;
     this.y = y_;
     this.pokemon = pokemonNO_
