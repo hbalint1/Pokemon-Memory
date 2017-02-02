@@ -14,3 +14,4 @@ Memory game with Pokemons.
   - Menu.
   - Announcements.
 - Make online multiplayer possiblity.
+- Make flip animation for cards.
